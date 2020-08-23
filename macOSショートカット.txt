@@ -1,0 +1,69 @@
+
+◯ボタン説明
+⌘ : Command Key　※winのcontorlキー
+⌥ : Option Key
+⌃ : Control Key　※mac独自キー
+⇧ : Shift Key
+
+マルチウィンドウ制御
+⌃ [→] 別画面
+
+
+テキスト編集アプリで...
+⇧←[→] : カーソルから前[後]を選択する
+⌘←[→] : カーソルを文の先頭[末尾]へ☆
+⌥←[→] : カーソルを文字区切りの先頭[末尾]へ☆
+⇧⌘←[→] : カーソルから前[後]の1行を選択する☆
+⇧⌥←[→] : 文字区切りを選択する
+⌃f 1文字進む　Forward
+⌃b 一文字戻る　back
+⌃p　一行上 Previous Line
+⌃n　一行下 Next Line
+
+
+◯Mac全般他基本ショートカット
+⌘Z : 取り消す
+⌘⇧Z : 元に戻す
+⌘⇧4 : 選択したエリアをスクリーンショット 
+　　　　⌥ spaceで全体を選択
+
+⌘⇧5 : スクリーンショット設定
+⌘Q : アプリケーション終了する Quit
+⌘H : アプリケーション隠す Hide
+⌘M : アプリケーションを最小化する
+
+⌘W : タブorウィンドウを閉じる☆
+⌘N : 新規作成
+⌘F : 検索
+⌘, : 設定
+⌘T : タブを開く
+
+
+
+＃MACOS
+https://support.apple.com/ja-jp/guide/japanese-input-method/jpim10267/mac
+
+Macの日本語変換用のキーボードショートカット
+
+https://support.apple.com/ja-jp/guide/japanese-input-method/jpim10263/6.2.1/mac/10.15
+
+
+
+
+
+
+⌘tab :　アプリ切り替え 
+⌥Tab：アプリケーション内のWindows切り替え
+
+キーボード設定を逆にする。※設定パネルのキーの部分をクリックすると編集可能
+⌃space spotlight検索
+
+⌘ スペース：日本語英語切り替え
+⌘ `：日本語英語切り替え  ※windows10の切り替えと同じにしておく。
+
+
+◯よく使う操作
+・テキスト選択→Google検索
+  ⌘C ⌘v ⌘T ⌘v
+・アプリケーション切り替え
+  ⌘tab 
